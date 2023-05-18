@@ -1,0 +1,3 @@
+show chassis hardware
+show system alarms
+show bgp summary
